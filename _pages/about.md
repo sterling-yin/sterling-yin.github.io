@@ -6,7 +6,7 @@ subtitle: 银星 - 个人主页 (Yin Xing - Personal Homepage)
 
 profile:
   align: right
-  image: prof_pic1.jpg
+  image: prof_pic1.JPG
   image_circular: false # crops the image to make it circular
   address: >
     <p>Anzhong Building A629</p>
