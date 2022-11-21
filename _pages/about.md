@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: ABOUT
 permalink: /
 subtitle: 银星 - 个人主页 (Yin Xing - Personal Homepage)
 
