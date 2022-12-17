@@ -1,41 +1,49 @@
-- title: General Information
+- title: 个人信息
   type: map
   contents:
-    - name: Full Name
-      value: 银星
-    - name: Date of Birth
-      value: Sep 1995
-    - name: Languages
-      value: Chinese, English
-
-- title: Education
+    - name: 姓名
+      value: 银星 (Xing Yin)
+    - name: 出生年月
+      value: 1995年9月
+      
+- title: 学习经历
   type: time_table
   contents:
-    - title: PhD
-      institution: Zhejiang University, Hangzhou, China
+    - title: 结构工程专业 工学博士研究生
+      institution: 浙江大学
       year: 2017 - 
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: BEng
-      institution: Ocean University of China, Qingdao, China
-      year: 2013 - 2017
-      description:
-        - Description 1.
-        - Description 2.
 
-- title: Academic Interests
+    - title: 土木工程专业 工学学士
+      institution: 中国海洋大学
+      year: 2013 - 2017
+
+- title: 主要研究领域
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: 混凝土材料和结构冲击动力学
       items: 
-        - Description 1.
+        - 材料动态力学行为
         - Description 2.
-    - title: Topic 2.
+    - title: 混凝土断裂力学
       items:
-        - Description 1.
+        - 动态断裂力学
         - Description 2.
+
+- title: 同行审阅工作
+  type: nested_list
+  contents:
+    - title: Techno-Press
+      items: 
+        - Structural Engineering and Mechanics, An International Journal
+
+- title: 科研项目
+  type: nested_list
+  contents:
+    - title: 国家自然科学基金(NSFC)
+      items: 
+        - 优秀青年科学基金项目：新材料结构（51622811） 参与
+        - 面上项目：超高韧性水泥基复合材料冲击动力性能研究（51678522） 参与
+        - 面上项目：基于高掺量碳纳米管的韧性混凝土隐身防护结构基本性能研究（51878601） 参与
+        - 面上项目：钢-超高韧性水泥基复合材料界面疲劳断裂性能研究（51978607） 参与
+        - 杰出青年科学基金项目：高韧性混凝土材料与结构（52225803） 参与
+
