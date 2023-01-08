@@ -9,12 +9,12 @@
 - title: 学习经历
   type: time_table
   contents:
-    - title: 结构工程专业 工学博士研究生
-      institution: 浙江大学
+    - title: 浙江大学
+      institution: 结构工程专业 工学博士研究生
       year: 2017 - 
 
-    - title: 土木工程专业 工学学士
-      institution: 中国海洋大学
+    - title: 中国海洋大学
+      institution: 土木工程专业 工学学士
       year: 2013 - 2017
 
 - title: 主要研究领域
@@ -23,11 +23,11 @@
     - title: 混凝土材料和结构冲击动力学
       items: 
         - 材料动态力学行为
-        - Description 2.
+        - 复合结构动态响应
     - title: 混凝土断裂力学
       items:
         - 动态断裂力学
-        - Description 2.
+        - CZM方法
 
 - title: 同行审阅工作
   type: nested_list
