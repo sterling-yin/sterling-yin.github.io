@@ -7,11 +7,11 @@ tags:
   - Publications
 ---
 ### 2019
-1. Huang B, **Yin X**, Li Q\*, Xu S, Zhang Y, Lyu Y, et al. Testing method for interface mode II fracture of plain concrete and fiber-reinforced cementitious composite. *In: Proceedings of the 10th International Conference on Fracture Mechanics of Concrete and Concrete Structures. Bayonne: IA-FraMCoS*; 2019.
+1. Huang B, **Yin X**, Li Q\*, Xu S, Zhang Y, Lyu Y, et al. Testing method for interface mode II fracture of plain concrete and fiber-reinforced cementitious composite. **_In: Proceedings of the 10th International Conference on Fracture Mechanics of Concrete and Concrete Structures. Bayonne: IA-FraMCoS_**; 2019.
 
 ### 2021
-2. Xu S\*, Zhou F, Li Q, Chen B, Jiang X, **Yin X**, et al. Comparative study on performance of UHTCC and RPC thick panels under hard projectile impact loading. *Cement and Concrete Composites*. 2021;122:104134.
-3. Li Q-H, **Yin X**, Huang B-T\*, Luo A-M, Lyu Y, Sun C-J, et al. Shear interfacial fracture of strain-hardening fiber-reinforced cementitious composites and concrete: A novel approach. *Engineering Fracture Mechanics*. 2021;253:107849.
+2. Xu S\*, Zhou F, Li Q, Chen B, Jiang X, **Yin X**, et al. Comparative study on performance of UHTCC and RPC thick panels under hard projectile impact loading. _Cement and Concrete Composites_. 2021;122:104134.
+3. Li Q-H, **Yin X**, Huang B-T\*, Luo A-M, Lyu Y, Sun C-J, et al. Shear interfacial fracture of strain-hardening fiber-reinforced cementitious composites and concrete: A novel approach. _Engineering Fracture Mechanics_. 2021;253:107849.
 4. Xu S, Guo K, Li Q\*, **Yin X**, Huang B. Shear fracture performance of the interface between ultra-high toughness cementitious composites and reactive powder concrete. *Composite Structures*. 2021;275:114403.
 
 ### 2022
