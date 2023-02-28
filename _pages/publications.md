@@ -2,7 +2,7 @@
 layout: home
 title: Publications
 description: "Publications"
-permalink: /posts.html
+permalink: /publications.html
 ---
 # About Me
 
