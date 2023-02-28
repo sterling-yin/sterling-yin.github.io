@@ -12,7 +12,7 @@ Please Cite: **Yin et al. (2023)**
 
 X. Yin, Q. Li, B. Chen, S. Xu, An improved calibration of Karagozian & Case concrete/cementitious model for strain-hardening fibre-reinforced cementitious composites under explosion and penetration loadings, Cem. Concr. Compos. 137 (2023) 104911. 
 
-[doi:10.1016/j.cemconcomp.2022.104911](https://doi.org/10.1016/j.cemconcomp.2022.104911.)
+[doi:10.1016/j.cemconcomp.2022.104911](https://doi.org/10.1016/j.cemconcomp.2022.104911)
 
 ### KCC Model Parameters for ECC/SHCC
 
