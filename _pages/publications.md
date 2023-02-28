@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Posts
-description: "List of posts"
+title: Publications
+description: "Publications"
 permalink: /posts.html
 ---
 # About Me
