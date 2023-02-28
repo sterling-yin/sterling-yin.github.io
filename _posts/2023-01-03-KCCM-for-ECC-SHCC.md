@@ -3,6 +3,7 @@ layout: post
 title: "Calibration of KCC Model for ECC/SHCC (FE Method)"
 excerpt: "An improved calibration of Karagozian & Case concrete/cementitious model for strain-hardening fibre-reinforced cementitious composites under explosion and penetration loadings"
 tags: 
+  - LS-DYNA
   - KCC
   - FE
 ---
