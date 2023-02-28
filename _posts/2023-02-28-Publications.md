@@ -7,7 +7,8 @@ tags:
   - Publications
 ---
 ### 2019
-1. Huang B, **Yin X**, Li Q\*, Xu S, Zhang Y, Lyu Y, et al. Testing method for interface mode II fracture of plain concrete and fiber-reinforced cementitious composite. **In: Proceedings of the 10th International Conference on Fracture Mechanics of Concrete and Concrete Structures. Bayonne: IA-FraMCoS**; 2019.
+1. Huang B, **Yin X**, Li Q\*, Xu S, Zhang Y, Lyu Y, et al. Testing method for interface mode II fracture of plain concrete and fiber-reinforced cementitious composite. **In: Proceedings of the 10th International Conference on Fracture Mechanics of Concrete and Concrete Structures. Bayonne: IA-FraMCoS**; 2019.  
+[doi: 10.21012/FC10.233093](http://10.21012/FC10.233093)
 
 ### 2021
 2. Xu S\*, Zhou F, Li Q, Chen B, Jiang X, **Yin X**, et al. Comparative study on performance of UHTCC and RPC thick panels under hard projectile impact loading. **Cement and Concrete Composites**. 2021;122:104134.
