@@ -15,10 +15,12 @@ tags:
 [doi: 10.1016/j.cemconcomp.2021.104134](https://doi.org/10.1016/j.cemconcomp.2021.104134)
 3. Li Q-H, **Yin X**, Huang B-T\*, Luo A-M, Lyu Y, Sun C-J, et al. Shear interfacial fracture of strain-hardening fiber-reinforced cementitious composites and concrete: A novel approach. **Engineering Fracture Mechanics**. 2021;253:107849.  
 [doi: 10.1016/j.engfracmech.2021.107849](https://doi.org/10.1016/j.engfracmech.2021.107849)
-4. Xu S, Guo K, Li Q\*, **Yin X**, Huang B. Shear fracture performance of the interface between ultra-high toughness cementitious composites and reactive powder concrete. **Composite Structures**. 2021;275:114403.
+4. Xu S, Guo K, Li Q\*, **Yin X**, Huang B. Shear fracture performance of the interface between ultra-high toughness cementitious composites and reactive powder concrete. **Composite Structures**. 2021;275:114403.  
+[doi: 10.1016/j.compstruct.2021.114403](https://doi.org/10.1016/j.compstruct.2021.114403)
 
 ### 2022
-5. Li Q, Chen B, Xu S\*, Zhou F, **Yin X**, Jiang X, et al. Experiment and numerical investigations of ultra-high toughness cementitious composite slabs under contact explosions. **International Journal of Impact Engineering**. 2022;159:104033.
+5. Li Q, Chen B, Xu S\*, Zhou F, **Yin X**, Jiang X, et al. Experiment and numerical investigations of ultra-high toughness cementitious composite slabs under contact explosions. **International Journal of Impact Engineering**. 2022;159:104033.  
+[doi: 10.1016/j.ijimpeng.2021.104033](https://doi.org/10.1016/j.ijimpeng.2021.104033)
 6. Xu S, Chen B, Li Q\*, Zhou F, **Yin X**, Jiang X, et al. Experimental and numerical investigations on ultra-high toughness cementitious composite slabs subjected to close-in blast loadings. **Cement and Concrete Composites**. 2022;126:104339.
 7. Li Q, **Yin X**, Huang B\*, Zhang Y, Xu S. Strengthening of the concrete face slabs of dams using sprayable strain-hardening fiber-reinforced cementitious composites. **Frontiers of Structural and Civil Engineering**. 2022;16(2):145–60.
 8. 李庆华, **银星**, 郭康安, 徐世烺\*. 超高韧性水泥基复合材料与活性粉末混凝土界面剪切强度试验研究. **工程力学**. 2022; 39(8): 232–244.
