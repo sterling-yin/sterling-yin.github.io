@@ -7,6 +7,7 @@ My research focuses on the "Impact dynamic on advanced engineering materials and
 
 # Featured Publications
 
+
 1. **Yin X**, Li Q\*, Chen B, Xu S. An improved calibration of Karagozian & Case concrete/cementitious model for strain-hardening fibre-reinforced cementitious composites under explosion and penetration loadings. **Cement and Concrete Composites**. 2023;137:104911.  
 2. **Yin X**, Li Q\*, Xu X, Chen B, Guo K, Xu S. Investigation of continuous surface cap model (CSCM) for numerical simulation of strain-hardening fibre-reinforced cementitious composites against low-velocity impacts. **Composite Structures**. 2023;304:116424.  
 3. **Yin X**, Li Q\*, Wang Q, Reinhardt H-W, Xu S. The double-K fracture model: A state-of-the-art review. **Engineering Fracture Mechanics**. 2023;277:108988.
