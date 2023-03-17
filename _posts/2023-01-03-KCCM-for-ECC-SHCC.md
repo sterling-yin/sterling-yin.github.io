@@ -62,11 +62,13 @@ $ omega   Associativity Parameter (ω), and ω = 1 and 0 represent the associate
 $         and non-associated flow rule. Do not change the calibrated value of
 $         0.75 unless there are confinement.
 $-------------------------------------------------------------------------------
+*KEYWORD
 *PARAMETER_EXPRESSION
+$#    prmr                                                            expression
 Rle       0.0025
-Rfc       46.8
-Rft       3.46e+6
-Rro       1793.8
+Rfc       50.00
+Rft       5.0e+6
+Rro       2000.0
 Rpr       0.255
 Romega    0.75
 $-------------------------------------------------------------------------------
@@ -142,104 +144,6 @@ Ra1y      1.17451
 Ra2y      0.20506/&fc/10**6
 Ra1r      0.60586
 Ra2r      0.07977/&fc/10**6
-$-------------------------------------------------------------------------------
-$*                           Parameters Calculation                            *
-$-------------------------------------------------------------------------------
-$----------------------------------ETA-LAMBDA-----------------------------------
-$----------------------------------LAMBDA (λ)-----------------------------------
-$-----------------------------------LAMBDA->1-----------------------------------
-$------------------------------------ETA (η)------------------------------------
-$----------------------------Equation of State (EOS)----------------------------
-$-------------------K&C strength surface parameters for UHTCC-------------------
-$-------------------------------------------------------------------------------
-$*                           Parameters Calculation                            *
-$-------------------------------------------------------------------------------
-$----------------------------------ETA-LAMBDA-----------------------------------
-$----------------------------------LAMBDA (λ)-----------------------------------
-$-----------------------------------LAMBDA->1-----------------------------------
-$------------------------------------ETA (η)------------------------------------
-$----------------------------Equation of State (EOS)----------------------------
-$-------------------K&C strength surface parameters for UHTCC-------------------
-*MAT_CONCRETE_DAMAGE_REL3_TITLE
-KCC_UHTCC_FE_EROSION
-$#     mid        ro        pr  
-     72001&ro       &pr       
-$       ft        A0        A1        A2        B1     OMEGA       A1F
-$#      ft        a0        a1        a2        b1     omega       a1f   
-&ft       &a0m      &a1m      &a2m      &b1       &omega    &a1r      
-$  sLambda      NOUT     EDROP     RSIZE       UCF    LCRate  LocWidth      NPTS
-$# slambda      nout     edrop     rsize       ucf    lcrate  locwidth      npts
-       0.0       2.0       1.0     39.371.45000E-4        72&lw             13.0
-$ Lambda01  Lambda02  Lambda03  Lambda04  Lambda05  Lambda06  Lambda07  Lambda08
-$# lambda1   lambda2   lambda3   lambda4   lambda5   lambda6   lambda7   lambda8
-       0.0&lambda02 &lambda03 &lambda04 &lambda05 &lambda06 &lambda07 &lambda08 
-$ Lambda09  Lambda10  Lambda11  Lambda12  Lambda13        B3       A0Y       A1Y
-$#lambda09  lambda10  lambda11  lambda12  lambda13        b3       a0y       a1y
-&lambda09 &lambda10 &lambda11       0.011.00000E10&b3       &a0y      &a1y      
-$    Eta01     Eta02     Eta03     Eta04     Eta05     Eta06     Eta07     Eta08
-$#    eta1      eta2      eta3      eta4      eta5      eta6      eta7      eta8
-       0.0&eta02    &eta03    &eta04    &eta05    &eta06    &eta07    &eta08    
-$    Eta09     Eta10     Eta11    Eta012     Eta13        B2       A2F       A2Y
-$#   eta09     eta10     eta11     eta12     eta13        b2       a2f       a2y
-&eta09    &eta10    &eta11           0.0       0.0&b2       &a2r      &a2y      
-*EOS_TABULATED_COMPACTION
-$    EOSID     Gamma        E0      Vol0
-$#   eosid      gama        e0        vo  
-        72       0.0       0.0       1.0
-$    VolStrain01     VolStrain02     VolStrain03     VolStrain04     VolStrain05
-$#           ev1             ev2             ev3             ev4             ev5
-             0.0         -0.0015         -0.0043         -0.0101         -0.0305
-$    VolStrain06     VolStrain07     VolStrain08     VolStrain09     VolStrain10
-$#           ev6             ev7             ev8             ev9            ev10
-         -0.0513         -0.0726         -0.0943          -0.174          -0.208
-$     Pressure01      Pressure02      Pressure03      Pressure04      Pressure05
-$#            c1              c2              c3              c4              c5
-             0.0&c2             &c3             &c4             &c5             
-$     Pressure06      Pressure07      Pressure08      Pressure09      Pressure10
-$#            c6              c7              c8              c9             c10
-&c6             &c7             &c8             &c9             &c10            
-$            Multipliers of Gamma*E
-$#            t1              t2              t3              t4              t5
-             0.0             0.0             0.0             0.0             0.0
-$#            t6              t7              t8              t9             t10
-             0.0             0.0             0.0             0.0             0.0
-$     BulkUnld01      BulkUnld02      BulkUnld03      BulkUnld04      BulkUnld05
-$#            k1              k2              k3              k4              k5
-&k1             &k2             &k3             &k4             &k5             
-$     BulkUnld06      BulkUnld07      BulkUnld08      BulkUnld09      BulkUnld10
-$#            k6              k7              k8              k9             k10
-&k6             &k7             &k8             &k9             &k10            
-*MAT_CONCRETE_DAMAGE_REL3_TITLE
-KCC_UHTCC_FE_NO_EROSION
-$#     mid        ro        pr  
-     72002&ro       &pr       
-$       ft        A0        A1        A2        B1     OMEGA       A1F
-$#      ft        a0        a1        a2        b1     omega       a1f   
-&ft       &a0m      &a1m      &a2m      &b1       &omega    &a1r      
-$  sLambda      NOUT     EDROP     RSIZE       UCF    LCRate  LocWidth      NPTS
-$# slambda      nout     edrop     rsize       ucf    lcrate  locwidth      npts
-       0.0       2.0       1.0     39.371.45000E-4        72&lw             13.0
-$ Lambda01  Lambda02  Lambda03  Lambda04  Lambda05  Lambda06  Lambda07  Lambda08
-$# lambda1   lambda2   lambda3   lambda4   lambda5   lambda6   lambda7   lambda8
-       0.0&lambda02 &lambda03 &lambda04 &lambda05 &lambda06 &lambda07 &lambda08 
-$ Lambda09  Lambda10  Lambda11  Lambda12  Lambda13        B3       A0Y       A1Y
-$#lambda09  lambda10  lambda11  lambda12  lambda13        b3       a0y       a1y
-&lambda09 &lambda10 &lambda11       0.011.00000E10&b3       &a0y      &a1y      
-$    Eta01     Eta02     Eta03     Eta04     Eta05     Eta06     Eta07     Eta08
-$#    eta1      eta2      eta3      eta4      eta5      eta6      eta7      eta8
-       0.0&eta02    &eta03    &eta04    &eta05    &eta06    &eta07    &eta08    
-$    Eta09     Eta10     Eta11    Eta012     Eta13        B2       A2F       A2Y
-$#   eta09     eta10     eta11     eta12     eta13        b2       a2f       a2y
-&eta09    &eta10    &eta11           0.0       0.0&b2       &a2r      &a2y      
-$-------------------------------------------------------------------------------
-$*                           Parameters Calculation                            *
-$-------------------------------------------------------------------------------
-$----------------------------------ETA-LAMBDA-----------------------------------
-$----------------------------------LAMBDA (λ)-----------------------------------
-$-----------------------------------LAMBDA->1-----------------------------------
-$------------------------------------ETA (η)------------------------------------
-$----------------------------Equation of State (EOS)----------------------------
-$-------------------K&C strength surface parameters for UHTCC-------------------
 *DEFINE_CURVE_TITLE
 DIF_UHTCC
 $#    lcid      sidr       sfa       sfo      offa      offo    dattyp     lcint
@@ -278,5 +182,54 @@ $#                a1                  o1
             300000.0               2.988
              3000000            2.998301
     3.0000000000e+07             2.99976
+*MAT_CONCRETE_DAMAGE_REL3_TITLE
+KCC_UHTCC_FE
+$#     mid        ro        pr  
+     72001&ro       &pr       
+$       ft        A0        A1        A2        B1     OMEGA       A1F
+$#      ft        a0        a1        a2        b1     omega       a1f   
+&ft       &a0m      &a1m      &a2m      &b1       &omega    &a1r      
+$  sLambda      NOUT     EDROP     RSIZE       UCF    LCRate  LocWidth      NPTS
+$# slambda      nout     edrop     rsize       ucf    lcrate  locwidth      npts
+       0.0       2.0       1.0     39.371.45000E-4        72&lw             13.0
+$ Lambda01  Lambda02  Lambda03  Lambda04  Lambda05  Lambda06  Lambda07  Lambda08
+$# lambda1   lambda2   lambda3   lambda4   lambda5   lambda6   lambda7   lambda8
+       0.0&lambda02 &lambda03 &lambda04 &lambda05 &lambda06 &lambda07 &lambda08 
+$ Lambda09  Lambda10  Lambda11  Lambda12  Lambda13        B3       A0Y       A1Y
+$#lambda09  lambda10  lambda11  lambda12  lambda13        b3       a0y       a1y
+&lambda09 &lambda10 &lambda11       0.011.00000E10&b3       &a0y      &a1y      
+$    Eta01     Eta02     Eta03     Eta04     Eta05     Eta06     Eta07     Eta08
+$#    eta1      eta2      eta3      eta4      eta5      eta6      eta7      eta8
+       0.0&eta02    &eta03    &eta04    &eta05    &eta06    &eta07    &eta08    
+$    Eta09     Eta10     Eta11    Eta012     Eta13        B2       A2F       A2Y
+$#   eta09     eta10     eta11     eta12     eta13        b2       a2f       a2y
+&eta09    &eta10    &eta11           0.0       0.0&b2       &a2r      &a2y      
+*EOS_TABULATED_COMPACTION
+$    EOSID     Gamma        E0      Vol0
+$#   eosid      gama        e0        vo       lcc       lct       lck      lcid
+        72       0.0       0.0       1.0         0         0         0         0
+$    VolStrain01     VolStrain02     VolStrain03     VolStrain04     VolStrain05
+$#           ev1             ev2             ev3             ev4             ev5
+             0.0         -0.0015         -0.0043         -0.0101         -0.0305
+$    VolStrain06     VolStrain07     VolStrain08     VolStrain09     VolStrain10
+$#           ev6             ev7             ev8             ev9            ev10
+         -0.0513         -0.0726         -0.0943          -0.174          -0.208
+$     Pressure01      Pressure02      Pressure03      Pressure04      Pressure05
+$#            c1              c2              c3              c4              c5
+             0.0&c2             &c3             &c4             &c5             
+$     Pressure06      Pressure07      Pressure08      Pressure09      Pressure10
+$#            c6              c7              c8              c9             c10
+&c6             &c7             &c8             &c9             &c10            
+$            Multipliers of Gamma*E
+$#            t1              t2              t3              t4              t5
+             0.0             0.0             0.0             0.0             0.0
+$#            t6              t7              t8              t9             t10
+             0.0             0.0             0.0             0.0             0.0
+$     BulkUnld01      BulkUnld02      BulkUnld03      BulkUnld04      BulkUnld05
+$#            k1              k2              k3              k4              k5
+&k1             &k2             &k3             &k4             &k5             
+$     BulkUnld06      BulkUnld07      BulkUnld08      BulkUnld09      BulkUnld10
+$#            k6              k7              k8              k9             k10
+&k6             &k7             &k8             &k9             &k10            
 *END
 ```
