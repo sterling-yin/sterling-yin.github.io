@@ -35,5 +35,5 @@ tags:
 [doi: 10.1016/j.engfracmech.2022.108988](https://linkinghub.elsevier.com/retrieve/pii/S0013794422007111)
 11. **Yin X**, Li Q\*, Chen B, Xu S. An improved calibration of Karagozian & Case concrete/cementitious model for strain-hardening fibre-reinforced cementitious composites under explosion and penetration loadings. **Cement and Concrete Composites**. 2023;137:104911.  
 [doi: 10.1016/j.cemconcomp.2022.104911](https://linkinghub.elsevier.com/retrieve/pii/S0958946522005042)  
-12. Wang Q, Li Q\*, **Yin X**, Xu S, Xie H, Su Z. Fracture behavior and size effect of UHPFRC: Experimental and mesoscale numerical investigation. **Engineering Fracture Mechanics**. 2023;xx:109197.
+12. Wang Q, Li Q\*, **Yin X**, Xu S, Xie H, Su Z. Fracture behavior and size effect of UHPFRC: Experimental and mesoscale numerical investigation. **Engineering Fracture Mechanics**. 2023;xx:109197.  
 [doi: 10.1016/j.engfracmech.2023.109197](https://doi.org/10.1016/j.engfracmech.2023.109197)
