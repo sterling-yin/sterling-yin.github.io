@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Status of Submitted Manuscripts"
+title: "Submitted Manuscripts"
 categories:
   - Publications
 tags:
