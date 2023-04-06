@@ -14,3 +14,5 @@ tags:
 6. International Journal of Environmental Research and Public Health
 7. Materials
 8. Sensors
+9. Advances in Civil Engineering
+10. Frontiers in Materials
