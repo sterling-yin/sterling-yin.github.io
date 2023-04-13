@@ -38,5 +38,5 @@ tags:
 12. Wang Q, Li Q\*, **Yin X**, Xu S, Xie H, Su Z. Fracture behavior and size effect of UHPFRC: Experimental and mesoscale numerical investigation. **Engineering Fracture Mechanics**. 2023;283:109197.  
 [doi: 10.1016/j.engfracmech.2023.109197](https://linkinghub.elsevier.com/retrieve/pii/S0013794423001558)
 13. Jiang X, Li Q\*, **Yin X**, Xu S. Effect of steel fiber and target thickness on the penetration resistance of UHPC under high velocity small projectile impact loading. **Cement and Concrete Composites**. 2023;***:105064  
-[doi: 10.1016/j.cemconcomp.2023.105064](https://linkinghub.elsevier.com/retrieve/pii/0)  
+[doi: 10.1016/j.cemconcomp.2023.105064](https://linkinghub.elsevier.com/retrieve/pii/S0958946523001385)  
 
