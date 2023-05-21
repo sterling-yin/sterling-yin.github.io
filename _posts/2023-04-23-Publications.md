@@ -39,5 +39,5 @@ tags:
 [doi: 10.1016/j.engfracmech.2023.109197](https://linkinghub.elsevier.com/retrieve/pii/S0013794423001558)
 13. Jiang X, Li Q\*, **Yin X**, Xu S. Effect of steel fiber and target thickness on the penetration resistance of UHPC under high velocity small projectile impact loading. **Cement and Concrete Composites**. 2023;140:105064  
 [doi: 10.1016/j.cemconcomp.2023.105064](https://linkinghub.elsevier.com/retrieve/pii/S0958946523001385)
-14. Jiang X, Li Q\*, **Yin X**, Xu S. Investigation on triaxial compressive mechanical properties of ultra high toughness cementitious composites with high strain capacity. **Cement and Concrete Research**. 2023;***:107185
-[doi: 10.1016/j.cemconres.2023.107185](https://linkinghub.elsevier.com/retrieve/pii/S0958946523001385)
+14. Jiang X, Li Q\*, **Yin X**, Xu S. Investigation on triaxial compressive mechanical properties of ultra high toughness cementitious composites with high strain capacity. **Cement and Concrete Research**. 2023;170:107185
+[doi: 10.1016/j.cemconres.2023.107185](https://doi.org/10.1016/j.cemconres.2023.107185)
