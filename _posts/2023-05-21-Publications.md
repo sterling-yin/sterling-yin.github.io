@@ -37,7 +37,9 @@ tags:
 [doi: 10.1016/j.cemconcomp.2022.104911](https://linkinghub.elsevier.com/retrieve/pii/S0958946522005042)  
 12. Wang Q, Li Q\*, **Yin X**, Xu S, Xie H, Su Z. Fracture behavior and size effect of UHPFRC: Experimental and mesoscale numerical investigation. **Engineering Fracture Mechanics**. 2023;283:109197.  
 [doi: 10.1016/j.engfracmech.2023.109197](https://linkinghub.elsevier.com/retrieve/pii/S0013794423001558)
-13. Jiang X, Li Q\*, **Yin X**, Xu S. Effect of steel fiber and target thickness on the penetration resistance of UHPC under high velocity small projectile impact loading. **Cement and Concrete Composites**. 2023;140:105064  
+13. Jiang X, Li Q\*, **Yin X**, Xu S. Effect of steel fiber and target thickness on the penetration resistance of UHPC under high velocity small projectile impact loading. **Cement and Concrete Composites**. 2023;140:105064.  
 [doi: 10.1016/j.cemconcomp.2023.105064](https://linkinghub.elsevier.com/retrieve/pii/S0958946523001385)
-14. Jiang X, Li Q\*, **Yin X**, Xu S. Investigation on triaxial compressive mechanical properties of ultra high toughness cementitious composites with high strain capacity. **Cement and Concrete Research**. 2023;170:107185
-[doi: 10.1016/j.cemconres.2023.107185](https://doi.org/10.1016/j.cemconres.2023.107185)
+14. Jiang X, Li Q\*, **Yin X**, Xu S. Investigation on triaxial compressive mechanical properties of ultra high toughness cementitious composites with high strain capacity. **Cement and Concrete Research**. 2023;170:107185.  
+[doi: 10.1016/j.cemconres.2023.107185](https://doi.org/10.1016/j.cemconres.2023.107185)  
+15. **Yin X**, Li Q\*, Wang Q, Chen B, Xu S. Experimental and Numerical Investigation on Stress Waves Propagation in Strain-Hardening Fiber-Reinforced Cementitious Composites: Stochastic Analysis using Polynomial Chaos Expansions. **Journal of Building Engineering**. 2023;***:106902.  
+[doi: 10.1016/j.jobe.2023.106902](https://doi.org/10.1016/j.jobe.2023.106902)
