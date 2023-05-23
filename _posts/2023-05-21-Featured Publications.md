@@ -14,3 +14,6 @@ tags:
 
 3. **Yin X**, Li Q\*, Wang Q, Reinhardt H-W, Xu S. The double-K fracture model: A state-of-the-art review. **Engineering Fracture Mechanics**. 2023;277:108988.  
 [doi: 10.1016/j.engfracmech.2022.108988](https://linkinghub.elsevier.com/retrieve/pii/S0013794422007111)
+
+4. **Yin X**, Li Q\*, Wang Q, Chen B, Xu S. Experimental and Numerical Investigation on Stress Waves Propagation in Strain-Hardening Fiber-Reinforced Cementitious Composites: Stochastic Analysis using Polynomial Chaos Expansions. **Journal of Building Engineering**. 2023;***:106902.  
+[doi: 10.1016/j.jobe.2023.106902](https://doi.org/10.1016/j.jobe.2023.106902)
