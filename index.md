@@ -4,4 +4,4 @@ layout: home
 # About Me
 
 Dr. Yin is currently a postdoctoral fellow at the Zhejiang University. His research focuses on the "Impact Dynamic on Advanced Engineering Materials and Structures" enabled by (i) Dynamic mechanics behaviours of engineering materials [e.g., dynamic compression, dynamic fracture, and spallation, etc.]; (ii) Dynamic response of engineering structures [e.g., low-velocity impact, explosion, and penetration, etc.]; (iii) Constitutive models of cementitious materials; and (iv) Advanced numerical approach [e.g., meshfree/particle method, dynamic phase field method].
-For more information, please click [ResearchGate](https://www.researchgate.net/profile/Xing-Yin-yinxing).
+For more information, please click [ResearchGate](https://www.researchgate.net/profile/Xing-Yin-yinxing), [ORCID](https://orcid.org/0000-0001-9547-2681), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57224563748), and [WoS](https://www.webofscience.com/wos/author/record/AAW-9774-2021).
