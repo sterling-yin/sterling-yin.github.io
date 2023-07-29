@@ -3,10 +3,10 @@
   image: https://raw.githubusercontent.com/sterling-yin/sterling-yin.github.io/master/images/Project-KCC_CCC.png
   completed: True
 
-- title: Constitutive Model for FRCC in Impact Dynamics
-  url: 
-  image: 
-  completed: false
+- title: The double-K fracture model
+  url: https://www.sciencedirect.com/science/article/pii/S0013794422007111?via%3Dihub
+  image: https://raw.githubusercontent.com/sterling-yin/sterling-yin.github.io/master/images/Project-doubleK_EFM.jpg
+  completed: True
 
 - title: Machine Learning
   url: 
