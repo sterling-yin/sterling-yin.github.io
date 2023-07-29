@@ -1,19 +1,19 @@
 - title: K&C Model Parameters for ECC/SHCC
-  url: https://sterling-yin.github.io/KCCM-for-ECC-SHCC/
-  image: https://raw.githubusercontent.com/sterling-yin/sterling-yin.github.io/master/images/Project-KCC_CCC.png
+  url: https://www.sciencedirect.com/science/article/pii/S0958946522005042?via%3Dihub
+  image: https://raw.githubusercontent.com/sterling-yin/sterling-yin.github.io/master/images/CCC_KCC.png
   completed: True
 
-- title: The double-K fracture model
+- title: CSCM for ECC/SHCC
+  url: https://www.sciencedirect.com/science/article/pii/S0263822322011564?via%3Dihub
+  image: https://raw.githubusercontent.com/sterling-yin/sterling-yin.github.io/master/images/CS_CSCM.png
+  completed: True
+
+- title: The double-K Fracture Model
   url: https://www.sciencedirect.com/science/article/pii/S0013794422007111?via%3Dihub
-  image: https://raw.githubusercontent.com/sterling-yin/sterling-yin.github.io/master/images/Project-doubleK_EFM.jpg
+  image: https://raw.githubusercontent.com/sterling-yin/sterling-yin.github.io/master/images/EFM_doubleK.png
   completed: True
 
-- title: Machine Learning
-  url: 
-  image: 
-  completed: false
-
-- title: Dynamic behavior of FRCC
-  url: 
-  image: 
-  completed: false
+- title: Stress Wave Propagation in UHTCC
+  url: https://www.sciencedirect.com/science/article/pii/S2352710223010811?via%3Dihub
+  image: https://raw.githubusercontent.com/sterling-yin/sterling-yin.github.io/master/images/JOBE_Stress-Wave.png
+  completed: True
