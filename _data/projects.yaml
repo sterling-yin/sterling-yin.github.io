@@ -1,7 +1,7 @@
-- title: Halve Jekyll Theme
-  url: http://taylantatli.me/Halve
+- title: The Karagozian & Case Concrete/Cementitious Model Parameters for ECC/SHCC
+  url: https://sterling-yin.github.io/KCCM-for-ECC-SHCC/
   image: http://taylantatli.me/Halve/images/halve-home-image.png
-  completed: false
+  completed: True
 
 - title: Moon Jekyll Theme
   url: http://taylantatli.me/Moon
