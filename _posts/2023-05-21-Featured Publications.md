@@ -17,3 +17,5 @@ tags:
 
 4. **Yin X**, Li Q\*, Wang Q, Chen B, Xu S. Experimental and Numerical Investigation on Stress Waves Propagation in Strain-Hardening Fiber-Reinforced Cementitious Composites: Stochastic Analysis using Polynomial Chaos Expansions. **Journal of Building Engineering**. 2023;74:106902.  
 [doi: 10.1016/j.jobe.2023.106902](https://doi.org/10.1016/j.jobe.2023.106902)
+
+5. **Yin X**, Li Q\*, Wang Q, Chen B, Shu C, Xu S. Mesoscale Numerical Investigation of Dynamic Spalling Fracture in Toughness Concrete. **International Journal of Mechanical Sciences**. 2023;  (Just Accept)
