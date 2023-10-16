@@ -4,7 +4,7 @@ title: "Publications"
 categories:
   - Publications
 tags:
-  - Publications
+  - Publications List
 ---
 ### 2019
 1. Huang B, **Yin X**, Li Q\*, Xu S, Zhang Y, Lyu Y, et al. Testing method for interface mode II fracture of plain concrete and fiber-reinforced cementitious composite. **In: Proceedings of the 10th International Conference on Fracture Mechanics of Concrete and Concrete Structures. Bayonne: IA-FraMCoS**; 2019.  
