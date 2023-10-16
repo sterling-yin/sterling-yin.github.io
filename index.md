@@ -8,7 +8,6 @@ layout: home
 长期专注于高性能建筑结构与材料**冲击动力学**研究，主要包括：水泥基材料本构关系、高性能建筑结构低速冲击响应、高性能建筑材料抗爆炸性能、混凝土断裂力学。在工程材料领域的*Cement and Concrete Composites*、*Cement and Concrete Research*，结构工程领域的*Composite Structures*、*International Journal of Impact Engineering*，固体力学领域的*International Journal of Mechanical Sciences*、*Engineering Fracture Mechanics*等顶级/权威期刊发表高水平论文10余篇，其中2篇曾入选ESI高被引论文（本人第一作者）。担任20余本国际知名学术期刊审稿人。
 
 <br />
-<br />
 
 **工作及学习经历**
 
@@ -18,7 +17,6 @@ layout: home
 
 2013.08 – 2017.06 中国海洋大学，工程学院，土木工程专业，学士
 
-<br />
 <br />
 
 **代表性论文**
