@@ -3,12 +3,14 @@ layout: home
 ---
 # 个人简介
 
-[**银星，1995年9月出生，内蒙古包头人，工学博士，博士后，现为浙江大学高性能结构研究所徐世烺院士研究团队成员。**](https://www.researchgate.net/profile/Xing-Yin-yinxing)
+**银星，1995年9月出生，内蒙古包头人，工学博士，博士后，现为浙江大学高性能结构研究所徐世烺院士研究团队成员。**
 
 长期专注于高性能建筑结构与材料**冲击动力学**研究，主要包括：水泥基材料本构关系、高性能建筑结构低速冲击响应、高性能建筑材料抗爆炸性能、混凝土断裂力学。在工程材料领域的*Cement and Concrete Composites*、*Cement and Concrete Research*，结构工程领域的*Composite Structures*、*International Journal of Impact Engineering*，固体力学领域的*International Journal of Mechanical Sciences*、*Engineering Fracture Mechanics*等顶级/权威期刊发表高水平论文10余篇，其中2篇曾入选ESI高被引论文（本人第一作者）。担任20余本国际知名学术期刊审稿人。
 
+<br />
+<br />
 
-[**工作及学习经历**](https://sterling-yin.github.io/Biography/)
+**工作及学习经历**
 
 2023.10 - : 浙江大学，建筑工程学院，土木工程博士后流动站，学科博士后（合作导师：李庆华 教授）
 
@@ -16,8 +18,10 @@ layout: home
 
 2013.08 – 2017.06 中国海洋大学，工程学院，土木工程专业，学士
 
+<br />
+<br />
 
-[**代表性论文**](https://sterling-yin.github.io/Featured-Publications/)
+**代表性论文**
 
 [https://sterling-yin.github.io/Featured-Publications](https://sterling-yin.github.io/Featured-Publications/)
 
