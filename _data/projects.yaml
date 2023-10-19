@@ -1,21 +1,21 @@
 - title: K&C Model Parameters for ECC/SHCC
   url: https://www.sciencedirect.com/science/article/pii/S0958946522005042?via%3Dihub
-  image: https://raw.githubusercontent.com/sterling-yin/sterling-yin.github.io/master/images/0CCC_KCC-fs8.png
+  image: https://raw.githubusercontent.com/sterling-yin/sterling-yin.github.io/master/images/0CCC_KCC.png
   completed: True
 
 - title: CSCM for ECC/SHCC
   url: https://www.sciencedirect.com/science/article/pii/S0263822322011564?via%3Dihub
-  image: https://raw.githubusercontent.com/sterling-yin/sterling-yin.github.io/master/images/0CS_CSCM-fs8.png
+  image: https://raw.githubusercontent.com/sterling-yin/sterling-yin.github.io/master/images/0CS_CSCM.png
   completed: True
 
 - title: The double-K Fracture Model
   url: https://www.sciencedirect.com/science/article/pii/S0013794422007111?via%3Dihub
-  image: https://raw.githubusercontent.com/sterling-yin/sterling-yin.github.io/master/images/0EFM_doubleK-fs8.png
+  image: https://raw.githubusercontent.com/sterling-yin/sterling-yin.github.io/master/images/0EFM_doubleK.png
   completed: True
 
 - title: Stress Wave Propagation in UHTCC
   url: https://www.sciencedirect.com/science/article/pii/S2352710223010811?via%3Dihub
-  image: https://raw.githubusercontent.com/sterling-yin/sterling-yin.github.io/master/images/0JOBE_Stress-Wave-or8.png
+  image: https://raw.githubusercontent.com/sterling-yin/sterling-yin.github.io/master/images/0JOBE_Stress-Wave.png
   completed: True
 
 - title: Mesoscale Spallation of PVA-ST SHCC
