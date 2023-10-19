@@ -720,7 +720,7 @@ canvas {
     overflow: auto;
   }
   .block-right {
-    overflow-y: auto;
+    overflow-y: inherit;
   }
   .projects-menu li {
     width: 50% !important;
