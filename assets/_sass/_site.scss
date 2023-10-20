@@ -1,5 +1,6 @@
 .block-left {
   float: left;
+  overflow-y: hidden;
   .content {
     z-index: 1;
     position: relative;
