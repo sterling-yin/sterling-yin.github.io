@@ -3,7 +3,8 @@ layout: home
 ---
 # 个人简介
 
-**银星，1995年9月生，内蒙古包头人，工学博士，博士后，助理研究员。**
+**银星，1995年9月生，内蒙古包头人，工学博士，博士后，助理研究员。**  
+
 **现为浙江大学高性能结构研究所徐世烺院士研究团队成员。**   
 
 长期专注于高性能建筑结构与材料**冲击动力学**研究，主要包括：水泥基材料本构关系、高性能建筑结构低速冲击响应、高性能建筑材料抗爆炸性能、混凝土断裂力学。在工程材料领域的*Cement and Concrete Composites*、*Cement and Concrete Research*，结构工程领域的*Composite Structures*、冲击动力学领域的*International Journal of Impact Engineering*，力学领域的*International Journal of Mechanical Sciences*、断裂力学领域的*Engineering Fracture Mechanics*等顶级/权威期刊发表高水平论文10余篇，其中2篇曾入选ESI高被引论文（本人第一作者）。担任10余本国际知名学术期刊审稿人。
