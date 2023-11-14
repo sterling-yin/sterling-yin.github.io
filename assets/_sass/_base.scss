@@ -13,9 +13,9 @@
 
 html {
   line-height: 1;
-  overflow: hidden;
+  overflow: auto;
   &.no-scroll {
-    overflow: hidden;
+    overflow: auto;
   }
 }
 

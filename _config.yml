@@ -1,6 +1,6 @@
 # Site
-title: Yin Xing (银星) 
-description: ZHEJIANG UNIVERSITY
+title: Xing Yin, Ph.D. (银星) 
+description: ZHEJIANG UNIVERSITY (浙江大学)
 url: https://sterling-yin.github.io
 logo: sterling.png                                       # Site logo
 locale: zh_CN
@@ -42,7 +42,7 @@ github:             sterling-yin
 #tumblr:            username
 #pinterest:         username
 #foursquare:        username
-#steam:              username
+steam:              sterling_yin
 #dribbble:          username
 #youtube:           username
 #soundcloud:        username

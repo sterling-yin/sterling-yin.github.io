@@ -1,29 +1,39 @@
-- title: Halve Jekyll Theme
-  url: http://taylantatli.me/Halve
-  image: http://taylantatli.me/Halve/images/halve-home-image.png
+- title: K&C Model Parameters for ECC/SHCC
+  url: https://www.sciencedirect.com/science/article/pii/S0958946522005042?via%3Dihub
+  image: https://raw.githubusercontent.com/sterling-yin/sterling-yin.github.io/master/images/0CCC_KCC.png
+  completed: True
+
+- title: CSCM for ECC/SHCC
+  url: https://www.sciencedirect.com/science/article/pii/S0263822322011564?via%3Dihub
+  image: https://raw.githubusercontent.com/sterling-yin/sterling-yin.github.io/master/images/0CS_CSCM.png
+  completed: True
+
+- title: The double-K Fracture Model
+  url: https://www.sciencedirect.com/science/article/pii/S0013794422007111?via%3Dihub
+  image: https://raw.githubusercontent.com/sterling-yin/sterling-yin.github.io/master/images/0EFM_doubleK.png
+  completed: True
+
+- title: Stress Wave Propagation in UHTCC
+  url: https://www.sciencedirect.com/science/article/pii/S2352710223010811?via%3Dihub
+  image: https://raw.githubusercontent.com/sterling-yin/sterling-yin.github.io/master/images/0JOBE_Stress-Wave.png
+  completed: True
+
+- title: Mesoscale Spallation of PVA-ST SHCC
+  url: 
+  image: 
+  completed: false 
+
+- title: Interfacial Fracture between NSC and UHTCC
+  url: 
+  image: 
+  completed: false   
+
+- title: Explosion resistance of UHPFRC Panels
+  url: 
+  image: 
   completed: false
 
-- title: Moon Jekyll Theme
-  url: http://taylantatli.me/Moon
-  image: https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-  completed: true
-
-- title: Ramme Jekyll Theme
-  url: http://taylantatli.me/Ramme
-  image: https://raw.githubusercontent.com/TaylanTatli/Ramme/master/assets/img/screenshot-post.png
-  completed: true
-
-- title: Daisy Pelican Theme
-  url: http://taylantatli.me/Daisy-Pelican-Theme/
-  image: https://raw.githubusercontent.com/TaylanTatli/Daisy-Pelican-Theme/master/Preview-1.png
-  completed: true
-
-- title: Block Icon Theme
-  url: https://github.com/TaylanTatli/Block-Icon-Theme
-  image: https://raw.githubusercontent.com/TaylanTatli/Block-Icon-Theme/master/Preview.png
-  completed: false
-
-- title: Start Page
-  url: http://taylantatli.me/StartPage/
-  image: https://raw.githubusercontent.com/TaylanTatli/StartPage/master/preview.png
-  completed: false
+- title: Prediction of Spalling Morphologies of SHCC Plates
+  url: 
+  image: 
+  completed: false   
