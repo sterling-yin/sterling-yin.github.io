@@ -46,4 +46,6 @@ tags:
 
 ### 2024
 16. **Yin X**, Li Q\*, Wang Q, Chen B, Shu C, Xu S. Mesoscale Numerical Investigation of Dynamic Spalling Fracture in Toughness Concrete. **International Journal of Mechanical Sciences**. 2024; 108826 (Just Accept) 
-[doi: 10.1016/j.ijmecsci.2023.108826](https://doi.org/10.1016/j.ijmecsci.2023.108826)
+[doi: 10.1016/j.ijmecsci.2023.108826](https://doi.org/10.1016/j.ijmecsci.2023.108826)    
+17. Li Q\*, Luo A, Hong C, Wang G, **Yin X**, Xu S. Fatigue behavior of short-headed studs embedded in Ultra-high Toughness Cementitious Composites (UHTCC). **Engineering Structures**. 2024; 117194 (Just Accept)
+[doi: 10.1016/j.engstruct.2023.117194](https://doi.org/10.1016/j.engstruct.2023.117194)    
