@@ -13,7 +13,7 @@ tags:
 [doi: 10.1016/j.compstruct.2022.116424](https://linkinghub.elsevier.com/retrieve/pii/S0263822322011564)
 
 ### 高性能建筑材料动态力学行为
-+ **Yin X**, Li Q\*, Wang Q, Chen B, Shu C, Xu S. Mesoscale Numerical Investigation of Dynamic Spalling Fracture in Toughness Concrete. **International Journal of Mechanical Sciences**. 2024; 108826 (Just Accept)   
++ **Yin X**, Li Q\*, Wang Q, Chen B, Shu C, Xu S. Mesoscale Numerical Investigation of Dynamic Spalling Fracture in Toughness Concrete. **International Journal of Mechanical Sciences**. 2024;264:108826.     
 [doi: 10.1016/j.ijmecsci.2023.108826](https://doi.org/10.1016/j.ijmecsci.2023.108826)
 + **Yin X**, Li Q\*, Wang Q, Chen B, Xu S. Experimental and Numerical Investigation on Stress Waves Propagation in Strain-Hardening Fiber-Reinforced Cementitious Composites: Stochastic Analysis using Polynomial Chaos Expansions. **Journal of Building Engineering**. 2023;74:106902.  
 [doi: 10.1016/j.jobe.2023.106902](https://doi.org/10.1016/j.jobe.2023.106902)
