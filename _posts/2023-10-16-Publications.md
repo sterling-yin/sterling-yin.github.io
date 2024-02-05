@@ -41,11 +41,13 @@ tags:
 [doi: 10.1016/j.cemconcomp.2023.105064](https://linkinghub.elsevier.com/retrieve/pii/S0958946523001385)
 14. Jiang X, Li Q\*, **Yin X**, Xu S. Investigation on triaxial compressive mechanical properties of ultra high toughness cementitious composites with high strain capacity. **Cement and Concrete Research**. 2023;170:107185.  
 [doi: 10.1016/j.cemconres.2023.107185](https://doi.org/10.1016/j.cemconres.2023.107185)  
-15. **Yin X**, Li Q\*, Wang Q, Chen B, Xu S. Experimental and Numerical Investigation on Stress Waves Propagation in Strain-Hardening Fiber-Reinforced Cementitious Composites: Stochastic Analysis using Polynomial Chaos Expansions. **Journal of Building Engineering**. 2023;74:106902.  
+15. **Yin X**, Li Q\*, Wang Q, Chen B, Xu S. Experimental and numerical investigations on the stress waves propagation in strain-hardening fiber-reinforced cementitious composites: Stochastic analysis using polynomial chaos expansions. **Journal of Building Engineering**. 2023;74:106902.  
 [doi: 10.1016/j.jobe.2023.106902](https://doi.org/10.1016/j.jobe.2023.106902)    
 
 ### 2024
-16. **Yin X**, Li Q\*, Wang Q, Chen B, Shu C, Xu S. Mesoscale Numerical Investigation of Dynamic Spalling Fracture in Toughness Concrete. **International Journal of Mechanical Sciences**. 2024; 108826 (Just Accept) 
+16. **Yin X**, Li Q\*, Wang Q, Chen B, Shu C, Xu S. Mesoscale numerical investigation of dynamic spalling fracture in toughness concrete. **International Journal of Mechanical Sciences**. 2024;264:108826.    
 [doi: 10.1016/j.ijmecsci.2023.108826](https://doi.org/10.1016/j.ijmecsci.2023.108826)     
-17. Li Q\*, Luo A, Hong C, Wang G, **Yin X**, Xu S. Fatigue behavior of short-headed studs embedded in Ultra-high Toughness Cementitious Composites (UHTCC). **Engineering Structures**. 2024;300:117194.
-[doi: 10.1016/j.engstruct.2023.117194](https://www.sciencedirect.com/science/article/pii/S0141029623016097)    
+17. Li Q\*, Luo A, Hong C, Wang G, **Yin X**, Xu S. Fatigue behavior of short-headed studs embedded in Ultra-high Toughness Cementitious Composites (UHTCC). **Engineering Structures**. 2024;300:117194.    
+[doi: 10.1016/j.engstruct.2023.117194](https://www.sciencedirect.com/science/article/pii/S0141029623016097)  
+18. Wang Q, Li Q\*, **Yin X**, Xu S. Structural size effect in the mode I and mixed mode I/II fracture of strain-hardening cementitious composites (SHCC). **International Journal of Solids and Structures**. 2024;288:112628.    
+[doi: 10.1016/j.ijsolstr.2023.112628](https://linkinghub.elsevier.com/retrieve/pii/S0020768323005255)
