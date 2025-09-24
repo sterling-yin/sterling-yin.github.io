@@ -51,15 +51,15 @@ sections:
         featured_only: true
     design:
       view: article-grid
-      columns: 2
+      columns: 3
   - block: collection
     content:
-      title: Featured Publications
+      title: Selected Publications
       text: ''
       filters:
         folders:
           - publications
-        exclude_featured: false
+        exclude_featured: true
     design:
       view: citation
   # - block: collection
