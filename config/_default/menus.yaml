@@ -11,7 +11,7 @@ main:
     url: /#前沿探索
     weight: 11
   - name: 研究成果
-    url: /#研究成果
+    url: papers/
     weight: 12
   - name: 科研项目
     url: /#科研项目
@@ -19,9 +19,8 @@ main:
   - name: 学术兼职
     url: /#学术兼职
     weight: 14
-  - name: 研究成果2
-    url: papers/
-    weight: 15
+  - name: 研究成果
+
   # - name: Projects
   #   url: projects/
   #   weight: 30
