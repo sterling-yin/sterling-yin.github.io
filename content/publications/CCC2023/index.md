@@ -26,20 +26,6 @@ tags:
 featured: true
 
 links:
-  # - type: pdf
-  #   url: http://arxiv.org/pdf/1512.04133v1
-  # - type: code
-  #   url: https://github.com/HugoBlox/hugo-blox-builder
-  # - type: dataset
-  #   url: ""
-  # - type: poster
-  #   url: ""
-  # - type: project
-  #   url: ""
-  # - type: slides
-  #   url: https://www.slideshare.net/
-  # - type: video
-  #   url: ""
   - type: doi
     url: "https://doi.org/10.1016/j.cemconcomp.2022.104911"
 
