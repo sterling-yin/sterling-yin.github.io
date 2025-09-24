@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xing YIN
+title: 银星 (Xing YIN)
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Postdoctoral Fellow
+role: 博士后/助理研究员
 
 # Organizations/Affiliations to display in Biography blox
 organizations:

@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name
-title: Dr.YIN Academic CV | 银星个人主页
+title: 银星(YIN Xing)个人主页
 # Website URL
 baseURL: 'https://example.com/'
 
@@ -12,7 +12,7 @@ baseURL: 'https://example.com/'
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
+defaultContentLanguage: zh
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
