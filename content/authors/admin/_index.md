@@ -7,7 +7,7 @@ name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Xing
-last_name: YIN
+last_name: Yin
 
 # Pronouns (optional)
 pronouns: Ph.D.
