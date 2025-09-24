@@ -1,10 +1,18 @@
 ---
 title: 研究成果
-summary: My courses
-type: pages
+summary: 学术研究与成果展示
+type: page
 layout: wide
 show_breadcrumb: true
----
+
+sections:
+  - block: markdown
+    id: research
+    content:
+      title: 研究成果
+      subtitle: ""
+      text: |-
+        ## 已发表论文
         1. Yin X, Li Q*, Chen B, Xu S. An improved calibration of Karagozian & Case concrete/cementitious model for strain-hardening fibre-reinforced cementitious composites under explosion and penetration loadings. Cement and Concrete Composites. 2023;137:104911.  doi: 10.1016/j.cemconcomp.2022.104911
         2. Yin X, Li Q*, Xu X, Chen B, Guo K, Xu S. Investigation of continuous surface cap model (CSCM) for numerical simulation of strain-hardening fibre-reinforced cementitious composites against low-velocity impacts. Composite Structures. 2023;304:116424.  doi: 10.1016/j.compstruct.2022.116424
         3. Yin X, Li Q*, Wang Q, Chen B, Shu C, Xu S. Mesoscale numerical investigation of dynamic spalling fracture in toughness concrete. International Journal of Mechanical Sciences. 2024;264:108826.  doi: 10.1016/j.ijmecsci.2023.108826
@@ -18,3 +26,4 @@ show_breadcrumb: true
         11. 李庆华, 刘雪涵, 银星*, 徐世烺. 循环压缩作用下高强高韧混凝土的力学性能与损伤演化模型研究. 东南大学学报(自然科学版).
         12. 李庆华, 银星, 郭康安, 徐世烺*. 超高韧性水泥基复合材料与活性粉末混凝土界面剪切强度试验研究. 工程力学 , 2022, 39(8):232–44. doi: 10.6052/j.issn.1000-4750.2021.05.0355
 
+---
