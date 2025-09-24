@@ -42,6 +42,7 @@ sections:
   #   design:
   #     columns: '1'
   - block: markdown
+    id: 科研项目
     content:
       title: '科研项目'
       subtitle: ''
