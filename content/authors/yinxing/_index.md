@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 银星
+title: Xing Yin
 
 # Name pronunciation (optional)
 name_pronunciation: ''

@@ -1,7 +1,7 @@
 ---
 title: "An improved calibration of Karagozian & Case concrete/cementitious model for strain-hardening fibre-reinforced cementitious composites under explosion and penetration loadings"
 authors:
-- admin
+- yinxing
 - Qinghua Li*
 - Bokun Chen
 - Shilang Xu

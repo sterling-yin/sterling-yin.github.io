@@ -1,7 +1,7 @@
 ---
 title: "Investigation of continuous surface cap model (CSCM) for numerical simulation of strain-hardening fibre-reinforced cementitious composites against low-velocity impacts"
 authors:
-- admin
+- yinxing
 - Qinghua Li*
 - Xiaoyang Xu
 - Bokun Chen
