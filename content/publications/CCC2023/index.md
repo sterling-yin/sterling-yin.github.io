@@ -41,6 +41,8 @@ links:
     url: "https://doi.org/10.1016/j.cemconcomp.2022.104911"
   # - type: video
   #   url: ""
+  - type: doi
+    url: "https://doi.org/10.1016/j.cemconcomp.2022.104911"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
