@@ -19,6 +19,9 @@ main:
   - name: 学术兼职
     url: /#学术兼职
     weight: 14
+  - name: 研究成果2
+    url: papers/
+    weight: 15
   # - name: Projects
   #   url: projects/
   #   weight: 30
