@@ -41,6 +41,14 @@ sections:
   #       Please reach out to collaborate 😃
   #   design:
   #     columns: '1'
+  - block: markdown
+    content:
+      title: '科研项目'
+      subtitle: ''
+      text: |-
+        111
+    design:
+      columns: '1'
   - block: collection
     id: papers
     content:
