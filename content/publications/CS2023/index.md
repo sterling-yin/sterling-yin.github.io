@@ -18,7 +18,7 @@ date: "2023-01-15T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**Composite Structures**, 304, 116424"
+publication: "***Composite Structures***, 304, 116424"
 
 abstract: This study calibrated the parameters of the continuous surface cap model (CSCM) for ultra-high toughness cementitious composites (UHTCC) with compressive strength from 25 MPa to 75 MPa, and the calibrated parameters could describe the mechanical behaviour of UHTCC, including the deviatoric response, volumetric response, tensile strain-hardening behaviour, strain rate effect, as well as the reduction of tensile strain-hardening behaviour at higher strain rate. The drop-weight impact tests on the reinforced concrete slab and reinforced UHTCC slab were proceeded to validate the soundness of the calibrated CSCM. The results show that the calibrated CSCM could accurately predict the impact response of reinforced UHTCC slab, and the most accurate simulation results were achieved in the model of the hexahedral elements with a mesh size of 10 mm. The calibrated CSCM parameters for UTHCC are expected to extend the application of UHTCC in the field of impact engineering.
 
