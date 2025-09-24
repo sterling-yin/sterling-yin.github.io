@@ -1,14 +1,12 @@
 ---
-title: "An improved calibration of Karagozian & Case concrete/cementitious model for strain-hardening fibre-reinforced cementitious composites under explosion and penetration loadings"
+title: "基于机器学习的超高韧性水泥基复合材料板在近场爆炸荷载作用下的损伤预测"
 authors:
-- yinxing
-- Qinghua Li*
-- Bokun Chen
-- Shilang Xu
+- 银星
+- 李庆华*
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2023-03-01T00:00:00Z"
+date: "2025-09-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -16,18 +14,18 @@ date: "2023-03-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "***Cement and Concrete Composites***, 137, 104911"
+publication: "***工程力学***, 137, 104911"
 
-abstract: The ultra-high tensile capacity of strain-hardening fibre-reinforced cementitious composites makes them promising for impact dynamics applications, however, there is a lack of reference for taking the parameters of the constitutive model of materials in numerical simulations. In this study, the Karagozian & Case concrete/cementitious model parameters for strain-hardening fibre-reinforced cementitious composites were comprehensively and systematically calibrated. Multiaxial behaviour, crack-bridging constitutive relations, strain-rate effects, regularization of damage evolution parameters, and parameters scaling method for wide-range strength of materials were all considered and carefully discussed. The calibrated parameters were validated using low-velocity drop-weight impact tests, near-field explosion tests, and high-speed penetration tests. In this study, the traditional element erosion method and meshless/particle methods of Smoothed Particle Galerkin (SPG) method were used for failure analysis in penetration and explosion models. The results show that the calibrated parameters accurately predict the cratering and scabbing diameters and failure modes of explosion tests with the element erosion method. Furthermore, the residual velocity of the projectile and crack patterns of targets were also predicted with good precision with both element erosion and SPG methods. However, in the simulations of low-velocity impact tests, the predictions of maximum deflection were acceptable, and the errors in residual deflection were significant due to the inherent weakness of the material constitutive model.
+abstract: 结合使用高保真数值分析技术和机器学习方法，对600 mm跨度的超高韧性水泥基复合材料（UHTCC）板在1 kg当量以内的近场爆炸荷载作用下的损伤模式进行研究和预测，采用流固耦合算法建立了包含300个样本的UHTCC板爆炸响应数据库，分别使用既有的经验性预测方法和可解释性机器学习方法进行分析。结果表明：既有的McVay和Morishita经验方法仅能预测贯穿失效，而UFC 3-340-02方法无法预测所有损伤模式；基于极端梯度提升（XGBoost）算法建立的机器学习模型在分层10折交叉验证中表现优秀，能够实现对UHTCC板近场爆炸损伤的快速预测；不同损伤模式下的特征重要性不同，材料的拉压强度比在层裂和弯曲损伤中较为重要，可据此优化材料和结构设计，提升防护结构抗爆性能。
 
 tags:
-- Constitutive Model
+- Blast Protection
 - SHCC
 featured: true
 
 links:
   - type: doi
-    url: "https://doi.org/10.1016/j.cemconcomp.2022.104911"
+    url: "https://doi.org/10.6052/j.issn.1000-4750.2024.10.07911"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
