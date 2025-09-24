@@ -22,8 +22,9 @@ publication: "***International Journal of Impact Engineering***, 192, 105028"
 abstract: Ultra-High-Performance Fibre Reinforced Concrete (UHPFRC) has impressive properties, including high strength, high modulus, and low brittleness, making it a promising candidate for protective engineering structures. This study investigated the near range explosion resistance performance of UHPFRC thin panels in wide scaled distances, inducing failure modes such as breach, spall, and flexure. The empirical prediction methods proposed by McVay, Morishita and UFC 3-340-02 were found to be insufficiently accurate in predicting such damage patterns for UHPFRC. To enhance the accuracy of predicting UHPFRC's response to explosions, this study meticulously calibrated the Riedel–Hiermaier–Thoma (RHT) model parameters for UHPFRC, which were subsequently validated. Recognising the inherent uncertainties in the mechanical properties of such engineering materials, this study used autocorrelated spatial random fields to develop high-fidelity stochastic numerical models and then simulate explosion testing of UHPFRC panels. The study concluded that the modified RHT constitutive model accurately predicted the explosive response of UHPFRC panels, including the failure modes and diameters of craters and spalls. The stochastic numerical models demonstrated superior analytical results compared to the deterministic models due to the consideration of uncertainties in the mechanical properties of the material. The findings of this study enrich the explosive response database of UHPFRC members. The calibrated RHT model provides an additional means of simulating the response of UHPFRC material to short periods of severe loading. Incorporating the stochastic nature of materials into the numerical analysis of explosive loadings promotes the development of more sophisticated high-fidelity numerical models.
 
 tags:
-- Source Themes
-featured: false
+- Explosion Protection
+- UHPFRC
+featured: ture
 
 links:
   # - type: pdf
@@ -38,7 +39,7 @@ links:
   #   url: ""
   # - type: slides
   #   url: https://www.slideshare.net/
-  - type: source
+  - type: doi
     url: "https://doi.org/10.1016/j.ijimpeng.2024.105028"
   # - type: video
   #   url: ""
