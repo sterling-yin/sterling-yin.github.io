@@ -4,15 +4,9 @@ summary: 学术研究与成果展示
 type: page
 layout: wide
 show_breadcrumb: true
+---
 
-sections:
-  - block: markdown
-    id: research
-    content:
-      title: 研究成果
-      subtitle: ""
-      text: |-
-        ## 已发表论文
+## 已发表论文
         1. Yin X, Li Q*, Chen B, Xu S. An improved calibration of Karagozian & Case concrete/cementitious model for strain-hardening fibre-reinforced cementitious composites under explosion and penetration loadings. Cement and Concrete Composites. 2023;137:104911.  doi: 10.1016/j.cemconcomp.2022.104911
         2. Yin X, Li Q*, Xu X, Chen B, Guo K, Xu S. Investigation of continuous surface cap model (CSCM) for numerical simulation of strain-hardening fibre-reinforced cementitious composites against low-velocity impacts. Composite Structures. 2023;304:116424.  doi: 10.1016/j.compstruct.2022.116424
         3. Yin X, Li Q*, Wang Q, Chen B, Shu C, Xu S. Mesoscale numerical investigation of dynamic spalling fracture in toughness concrete. International Journal of Mechanical Sciences. 2024;264:108826.  doi: 10.1016/j.ijmecsci.2023.108826
