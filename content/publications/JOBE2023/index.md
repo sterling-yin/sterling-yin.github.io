@@ -22,26 +22,13 @@ publication: "***Journal of Building Engineering***, 74, 106902"
 abstract: The propagation of stress waves can result in spalling fractures in materials, which poses a threat to the safety of engineering structures. Hence, in-depth studies are necessary to mitigate such risks. Ultra-high toughness cementitious composites (UHTCC) with significant tensile strain-hardening properties are advanced engineering materials with great potential for impact engineering. The study used a combination of experimental and numerical methods to analyse the propagation and attenuation behaviour of stress waves in the UHTCC. The numerical model was developed using the Smooth Particle Galerkin (SPG) method and the Karagozian & Case concrete/cementitious (KCC) material constitutive model. Additionally, a quantitative global sensitivity analysis (GSA) using a polynomial chaos expansion (PCE) surrogate model and Sobol's method was conducted to analyse the stochastic input parameters of the numerical model. Results show that compressive stress waves undergo significant attenuation during propagation in UHTCC, and the developed numerical model accurately simulated the stress wave propagation process Furthermore, the PCE-Sobol GSA revealed that the selected stress wave propagation responses are most sensitive to the tensile strength of UHTCC. This study is expected to deepen the understanding of the propagation behaviour of stress waves in UHTCC and pave the way for promising applications of UHTCC in impact engineering.
 
 tags:
-- Source Themes
+- Stress Wave Propagation
+- SHCC
 featured: false
 
 links:
-  # - type: pdf
-  #   url: http://arxiv.org/pdf/1512.04133v1
-  # - type: code
-  #   url: https://github.com/HugoBlox/hugo-blox-builder
-  # - type: dataset
-  #   url: ""
-  # - type: poster
-  #   url: ""
-  # - type: project
-  #   url: ""
-  # - type: slides
-  #   url: https://www.slideshare.net/
-  - type: source
+  - type: doi
     url: "https://doi.org/10.1016/j.jobe.2023.106902"
-  # - type: video
-  #   url: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
