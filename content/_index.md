@@ -51,7 +51,7 @@ sections:
         featured_only: false
     design:
       view: article-grid
-      columns: 3
+      columns: 1
   - block: collection
     content:
       title: Featured Publications
