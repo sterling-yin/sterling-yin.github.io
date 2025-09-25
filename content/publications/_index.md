@@ -1,5 +1,5 @@
 ---
-title: 研究成果
+title: '研究成果'
 cms_exclude: true
 
 # View.
