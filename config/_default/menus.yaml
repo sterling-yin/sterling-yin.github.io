@@ -22,9 +22,9 @@ main:
   - name: 学习工作经历
     url: experience/
     weight: 15
-  # - name: Projects
-  #   url: projects/
-  #   weight: 30
+  - name: Projects
+    url: projects/
+    weight: 30
   # - name: Teaching
   #   url: courses/
   #   weight: 40
