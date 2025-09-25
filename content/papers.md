@@ -26,4 +26,16 @@ sections:
         9. Li Q, Yin X, Huang B*, Zhang Y, Xu S. Strengthening of the Concrete Face Slabs of Dams Using Sprayable Strain-Hardening Fiber-Reinforced Cementitious Composites. Frontiers of Structural and Civil Engineering, 2022; 16(2):145–60. doi: 10.1007/s11709-022-0806-4
         11. 李庆华, 刘雪涵, 银星*, 徐世烺. 循环压缩作用下高强高韧混凝土的力学性能与损伤演化模型研究. 东南大学学报(自然科学版).
         12. 李庆华, 银星, 郭康安, 徐世烺*. 超高韧性水泥基复合材料与活性粉末混凝土界面剪切强度试验研究. 工程力学 , 2022, 39(8):232–44. doi: 10.6052/j.issn.1000-4750.2021.05.0355
+    design:
+      view: citation
+  - block: collection
+    content:
+      title: Selected Publications
+      text: ''
+      filters:
+        folders:
+          - publications
+        exclude_featured: false
+    design:
+      view: citation
 ---
