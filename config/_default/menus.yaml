@@ -14,12 +14,12 @@ main:
     url: papers/
     weight: 12
   - name: 科研项目
-    url: /#科研项目
+    url: grants/
     weight: 13
   - name: 学术兼职
     url: /#学术兼职
     weight: 14
-  - name: experience
+  - name: 学习工作经历
     url: experience/
     weight: 15
   # - name: Projects
