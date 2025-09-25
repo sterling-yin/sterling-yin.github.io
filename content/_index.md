@@ -44,7 +44,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: 代表性论文
       filters:
         folders:
           - publications
