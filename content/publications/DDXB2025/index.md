@@ -23,7 +23,7 @@ abstract: 分析了高强高韧混凝土（HS-UHTCC）在单轴单调和循环�
 tags:
 - Mechanical Behavior
 - SH-UHPFRC
-featured: true
+featured: false
 
 links:
   - type: doi
