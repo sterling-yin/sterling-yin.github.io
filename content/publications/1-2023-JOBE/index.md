@@ -24,7 +24,7 @@ abstract: The propagation of stress waves can result in spalling fractures in ma
 tags:
 - Stress Wave Propagation
 - SHCC
-featured: false
+featured: true
 
 links:
   - type: doi

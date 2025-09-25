@@ -22,8 +22,8 @@ publication: "***Engineering Fracture Mechanics***, 277, 108988"
 abstract: Over the past three decades, the double-K fracture model has received widespread recognition and application in the field of engineering material fracture. As the recommended method for testing the fracture properties of concrete by the Chinese Norm and the RILEM Standard, the advantages of the double-K fracture model in terms of analytic solution and simple test methods have led to its popularity and practice in both materials research and engineering applications. This article presents a state-of-the-art review on the usage of the double-K fracture model in existing research and provides an in-depth discussion of the applicability of the double-K fracture model to negative geometry. This article begins with the theoretical basis and development of the double-K fracture model. Then, a critical review of the application of the double-K fracture model in materials and engineering is performed. Thereafter, a detailed discussion of the applicability of the double-K fracture model to the negative geometry problem is provided and conducted via analytical and numerical approaches. Finally, this review article concludes with a concise summary and future work of the research on the double-K fracture model.
 
 tags:
-- Source Themes
-featured: false
+- Fracture Mechanics
+featured: true
 
 links:
   # - type: pdf
