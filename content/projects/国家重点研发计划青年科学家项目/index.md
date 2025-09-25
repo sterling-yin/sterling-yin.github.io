@@ -1,15 +1,9 @@
 ---
-title: PyTorch
-date: 2023-10-26
-links:
-  - type: site
-    url: https://github.com/pytorch/pytorch
+title: 国家重点研发计划青年科学家项目
+date: 2024-11-01
 tags:
-  - Hugo
-  - HugoBlox
-  - Markdown
+  - Marine Structures
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
-
+跨海峡水中悬浮隧道
 <!--more-->
