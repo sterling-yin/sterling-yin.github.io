@@ -61,17 +61,17 @@ sections:
         featured_only: true
     design:
       view: article-grid
-      columns: 3
-  - block: collection
-    content:
-      title: Selected Publications
-      text: ''
-      filters:
-        folders:
-          - publications
-        exclude_featured: true
-    design:
-      view: citation
+      columns: 2
+  # - block: collection
+  #   content:
+  #     title: Selected Publications
+  #     text: ''
+  #     filters:
+  #       folders:
+  #         - publications
+  #       exclude_featured: true
+  #   design:
+  #     view: citation
   # - block: collection
   #   id: talks
   #   content:
