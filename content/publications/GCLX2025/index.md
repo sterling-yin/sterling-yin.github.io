@@ -21,7 +21,7 @@ abstract: 结合使用高保真数值分析技术和机器学习方法，对600 
 tags:
 - Blast Protection
 - SHCC
-featured: true
+featured: false
 
 links:
   - type: doi
