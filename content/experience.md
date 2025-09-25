@@ -1,6 +1,6 @@
 ---
-title: 'Experience'
-date: 2023-10-24
+title: '学习工作经历'
+date: 2025-09-25
 type: landing
 
 design:
