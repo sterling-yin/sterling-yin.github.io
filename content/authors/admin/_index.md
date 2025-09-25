@@ -101,6 +101,3 @@ work:
 #     summary: |
 #       Awarded for groundbreaking work on efficient training of large models.
 ---
-
-银星，1995年9月生，内蒙古包头人，工学博士，博士后，助理研究员，入选2024年度国家博新计划。长期专注于高性能建筑结构与材料冲击动力学研究，在工程材料领域的Cem. Concr. Compos.(4)、Cem. Concr. Res.(2)， 结构工程领域的Compos. Struct.(2)、Eng. Struct.(1)，固体力学领域的Int. J. Mech. Sci.(2)、Int. J. Solids Struct.(1)， 冲击动力学领域的Int. J. Impact Eng.(3)，断裂力学领域的Eng. Fract. Mech.(4)等期刊发表高水平SCI论文二十余篇，其中2篇入选ESI高被引论文。
-
