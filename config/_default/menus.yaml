@@ -11,7 +11,7 @@ main:
     url: /#前沿探索
     weight: 11
   - name: 研究成果
-    url: papers/
+    url: publications/
     weight: 12
   - name: 科研项目
     url: grants/
