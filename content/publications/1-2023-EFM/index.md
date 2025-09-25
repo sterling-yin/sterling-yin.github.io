@@ -23,7 +23,7 @@ abstract: Over the past three decades, the double-K fracture model has received 
 
 tags:
 - Fracture Mechanics
-featured: true
+featured: false
 
 links:
   # - type: pdf
