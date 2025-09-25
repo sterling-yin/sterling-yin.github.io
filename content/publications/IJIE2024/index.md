@@ -24,7 +24,7 @@ abstract: Ultra-High-Performance Fibre Reinforced Concrete (UHPFRC) has impressi
 tags:
 - Explosion Protection
 - UHPFRC
-featured: ture
+featured: true
 
 links:
   # - type: pdf
