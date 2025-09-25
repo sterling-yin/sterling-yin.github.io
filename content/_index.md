@@ -20,8 +20,8 @@ sections:
       #   url: uploads/resume.pdf
       headings:
         about: '个人简介'
-        # education: ''
-        interests: ''
+        education: '教育经历'
+        interests: '研究方向'
     design:
       # Apply a gradient background
       css_class: hbx-bg-gradient
