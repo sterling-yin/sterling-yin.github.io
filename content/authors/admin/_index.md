@@ -52,7 +52,7 @@ interests:
   - 高效率、高保真数值分析方法
 
 education:
-  - area: 工学博士-结构工程（导师：徐世烺 院士）
+  - area: 博士-结构工程
     institution: 浙江大学
     date_start: 2017-09-01
     date_end: 2023-09-30
@@ -61,7 +61,7 @@ education:
     button:
       text: '知网链接'
       url: 'https://doi.org/10.27461/d.cnki.gzjdx.2023.002921'
-  - area: 工学学士-土木工程
+  - area: 学士-土木工程
     institution: 中国海洋大学
     date_start: 2013-09-01
     date_end: 2017-06-30
