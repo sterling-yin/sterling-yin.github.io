@@ -41,16 +41,6 @@ sections:
         Please reach out to collaborate 😃
     design:
       columns: '1'
-  - block: markdown
-    id: 科研项目
-    content:
-      title: '科研项目'
-      subtitle: ''
-      text: |-
-        1. 2024年度博士后创新人才支持计划，项目负责人，浙大土木学科首位入选者，No. BX20240320
-        2. 国家重点研发计划青年科学家项目，任务负责人，No. 2024YFB3715100
-    design:
-      columns: '1'
   - block: collection
     id: papers
     content:
@@ -62,25 +52,6 @@ sections:
     design:
       view: article-grid
       columns: 2
-  # - block: collection
-  #   content:
-  #     title: Selected Publications
-  #     text: ''
-  #     filters:
-  #       folders:
-  #         - publications
-  #       exclude_featured: true
-  #   design:
-  #     view: citation
-  # - block: collection
-  #   id: talks
-  #   content:
-  #     title: Recent & Upcoming Talks
-  #     filters:
-  #       folders:
-  #         - events
-  #   design:
-  #     view: card
   # - block: collection
   #   id: news
   #   content:
