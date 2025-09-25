@@ -10,7 +10,7 @@ first_name: Xing
 last_name: Yin
 
 # Pronouns (optional)
-pronouns: 工学博士
+pronouns: Ph.D
 
 # Status emoji
 status:
@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: 博士后/助理研究员
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
