@@ -15,9 +15,19 @@ sections:
       title: '前沿探索'
       subtitle: ''
       text: |-
-        Xing Yin is a postdoctoral fellow at Zhejiang University. He received his Ph.D. in Structural Engineering from Zhejiang University, and was awarded the fellowship of China National Postdoctoral Program for Innovative Talents. His research focuses on the dynamic behavior of advanced engineering materials and structures under extreme loading conditions. By exploring dynamic constitutive relations, capturing multi-scale structural responses, and examining failure mechanisms of fiber-reinforced cementitious composites (FRCCs) subjected to impact, blast, and penetration, his work seeks to contribute to a better understanding of material performance and to support the development of composite structures with enhanced resilience.
+        **Xing Yin** is a postdoctoral fellow at Zhejiang University. He received his Ph.D. in Structural Engineering from Zhejiang University, and was awarded the fellowship of China National Postdoctoral Program for Innovative Talents.  
 
-        ![Research](/images/research.gif)
+        His research focuses on the dynamic behavior of advanced engineering materials and structures under extreme loading conditions. By exploring dynamic constitutive relations, capturing multi-scale structural responses, and examining failure mechanisms of fiber-reinforced cementitious composites (FRCCs) subjected to impact, blast, and penetration, his work seeks to contribute to a better understanding of material performance and to support the development of composite structures with enhanced resilience.
+
+        <p align="center">
+          <img src="/images/research.gif" alt="Research" style="max-width:100%; height:auto;"/>
+        </p>
     design:
-      columns: '1'
+      columns: '2'      
+    #   text: |-
+    #     ![Research](/images/research.gif)
+                
+    #     Xing Yin is a postdoctoral fellow at Zhejiang University. He received his Ph.D. in Structural Engineering from Zhejiang University, and was awarded the fellowship of China National Postdoctoral Program for Innovative Talents. His research focuses on the dynamic behavior of advanced engineering materials and structures under extreme loading conditions. By exploring dynamic constitutive relations, capturing multi-scale structural responses, and examining failure mechanisms of fiber-reinforced cementitious composites (FRCCs) subjected to impact, blast, and penetration, his work seeks to contribute to a better understanding of material performance and to support the development of composite structures with enhanced resilience.
+    # design:
+    #   columns: '1'
 ---
