@@ -8,7 +8,7 @@ main:
     url: /
     weight: 10
   - name: 前沿探索
-    url: /#前沿探索
+    url: research/
     weight: 11
   - name: 研究成果
     url: publications/
