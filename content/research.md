@@ -12,7 +12,7 @@ design:
 sections:
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '前沿探索'
       subtitle: ''
       text: |-
         Xing Yin is a postdoctoral fellow at Zhejiang University. He received his Ph.D. in Structural Engineering from Zhejiang University, and was awarded the fellowship of China National Postdoctoral Program for Innovative Talents. His research focuses on the dynamic behavior of advanced engineering materials and structures under extreme loading conditions. By exploring dynamic constitutive relations, capturing multi-scale structural responses, and examining failure mechanisms of fiber-reinforced cementitious composites (FRCCs) subjected to impact, blast, and penetration, his work seeks to contribute to a better understanding of material performance and to support the development of composite structures with enhanced resilience.
