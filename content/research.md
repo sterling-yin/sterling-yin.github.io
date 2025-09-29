@@ -15,11 +15,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-
-        Please reach out to collaborate 😃
+        Xing Yin is a postdoctoral fellow at Zhejiang University. He received his Ph.D. in Structural Engineering from Zhejiang University, and was awarded the fellowship of China National Postdoctoral Program for Innovative Talents. His research focuses on the dynamic behavior of advanced engineering materials and structures under extreme loading conditions. By exploring dynamic constitutive relations, capturing multi-scale structural responses, and examining failure mechanisms of fiber-reinforced cementitious composites (FRCCs) subjected to impact, blast, and penetration, his work seeks to contribute to a better understanding of material performance and to support the development of composite structures with enhanced resilience.
     design:
       columns: '1'
 ---
