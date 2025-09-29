@@ -8,7 +8,7 @@ authors:
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2026-01-01T00:00:00Z"
+date: "2025-09-28T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
